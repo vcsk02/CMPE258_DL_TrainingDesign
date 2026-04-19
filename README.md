@@ -4,7 +4,7 @@ A structured deep learning tutorial repository covering the core ideas behind ne
 
 This project is organized as a set of Jupyter notebooks, with each notebook focusing on one important area of deep learning. Together, they form a practical learning path from foundational concepts to modern architectures and performance evaluation.
 
-Video Link: 
+Video Link: https://youtu.be/4apjV3xrIvY
 ---
 
 ## Overview
